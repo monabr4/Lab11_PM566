@@ -1,6 +1,9 @@
 ---
-title: "Lab11_PM566"
-format: html
+title: "Lab 11"
+author: Mona Bandov
+format: 
+  html:
+    embed-resources: true
 editor: visual
 ---
 
